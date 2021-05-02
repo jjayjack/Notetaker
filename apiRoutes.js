@@ -6,7 +6,6 @@ module.exports = (app) => {
 
     app.post('/api/notes', (req, res) => {
         const newNote = req.body;
-        console.log(newNote);
         if (storedNotes.length >0){
         newNote.id = storedNotes[storedNotes.length-1].id + 1;}
         else {newNote.id = 0};
