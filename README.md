@@ -1,8 +1,9 @@
 # Notetaker
 Coding project to assist with creating notes for a day to day tracker. Allows the user to input, save, delete, edit and create new notes. 
 
-## Getting Started
-
+## Links
+https://git.heroku.com/notetaker-nw-tril-jjay.git
+https://notetaker-nw-tril-jjay.herokuapp.com/
 
 ## Prerequisites
 Requires npm install and express to ensure code is running correctly. Focuses on express by targetting key elements within the page.
